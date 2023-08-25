@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
- mongoose.connect('mongodb+srv://anurag:anurag1107@cluster0.c8zi0vi.mongodb.net/Employeereviewsystem?retryWrites=true&w=majority');
+ mongoose.connect('mongodb+srv://anuragvsingh76:Anurag123@cluster0.5acjvnm.mongodb.net/?retryWrites=true&w=majority');
 
 
 // These set of line can be written in async await fashion, but I have followed the documentation. 
